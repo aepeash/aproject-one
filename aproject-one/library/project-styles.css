@@ -16,11 +16,11 @@ footer p {
 
 .importance img{
   max-height: 50%;
-  max-width: 20%;
+  max-width: 40%;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  box-shadow: 4px 4px 6px crimson;
+  box-shadow: 0px 0px 6px crimson;
   border-radius: 4px;
 }
 
@@ -37,6 +37,16 @@ footer p {
 .pewds img{
   max-height: 50%;
   max-width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  box-shadow: 0px 0px 6px crimson;
+  border-radius: 4px;
+}
+
+.subtopew img {
+  max-height: 50%;
+  max-width: 40%;
   margin-left: auto;
   margin-right: auto;
   display: block;
